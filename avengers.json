@@ -3,7 +3,7 @@
         "id": 1,
         "num": "001",
         "name": "Iron Man",
-        "img": "https://drive.google.com/file/d/1E4RIQvEeYv6j40zbAORxIySEzaCwAUPZ/view?usp=sharing",
+        "img": "https://drive.google.com/uc?export=view&id=1E4RIQvEeYv6j40zbAORxIySEzaCwAUPZ",
         "height": "0.71 m",
         "weight": "6.9 kg",
         "strength": [
@@ -19,7 +19,7 @@
         "id": 2,
         "num": "002",
         "name": "Thor",
-        "img": "https://drive.google.com/file/d/1EVbAVmeUNtw2LMtwiXxjkpKkNKhzTZIe/view?usp=sharing",
+        "img": "https://drive.google.com/uc?export=view&id=1EVbAVmeUNtw2LMtwiXxjkpKkNKhzTZIe",
         "height": "0.99 m",
         "weight": "13.0 kg",
         "strength": [
