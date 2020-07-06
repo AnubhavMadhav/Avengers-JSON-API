@@ -1,0 +1,35 @@
+{
+    "avengers": [{
+        "id": 1,
+        "num": "001",
+        "name": "Iron Man",
+        "img": "https://drive.google.com/file/d/1E4RIQvEeYv6j40zbAORxIySEzaCwAUPZ/view?usp=sharing",
+        "height": "0.71 m",
+        "weight": "6.9 kg",
+        "strength": [
+            "intelligence"
+        ],
+        "weaknesses": [
+            "Fire",
+            "Ice",
+            "Flying",
+            "Psychic"
+        ]
+    }, {
+        "id": 2,
+        "num": "002",
+        "name": "Thor",
+        "img": "https://drive.google.com/file/d/1EVbAVmeUNtw2LMtwiXxjkpKkNKhzTZIe/view?usp=sharing",
+        "height": "0.99 m",
+        "weight": "13.0 kg",
+        "strength": [
+            "mjolnir"
+        ],
+        "weaknesses": [
+            "Fire",
+            "Ice",
+            "Flying",
+            "Psychic"
+        ]
+    }]
+}

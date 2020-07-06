@@ -1,0 +1,6 @@
+{
+    "name": "avengers",
+    "version": "1.0.0",
+    "description": "Avengers API in JSON",
+    "main": "avengers.json"
+}
