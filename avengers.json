@@ -4,10 +4,26 @@
         "num": "001",
         "name": "Iron Man",
         "img": "https://drive.google.com/uc?export=view&id=1E4RIQvEeYv6j40zbAORxIySEzaCwAUPZ",
-        "height": "0.71 m",
-        "weight": "6.9 kg",
+        "height": "6 feet, 1 inch",
+        "weight": "225 pounds",
         "strength": [
-            "intelligence"
+            "Intellect",
+            "Technopathy",
+            "Super Human Reflexes"
+        ],
+        "weaknesses": [
+            "Ego",
+            "Heart Issues"
+        ]
+    }, {
+        "id": 2,
+        "num": "002",
+        "name": "Thor",
+        "img": "https://drive.google.com/uc?export=view&id=1EVbAVmeUNtw2LMtwiXxjkpKkNKhzTZIe",
+        "height": "6 feet, 6 inches",
+        "weight": "640 pounds",
+        "strength": [
+            ""
         ],
         "weaknesses": [
             "Fire",
@@ -16,12 +32,508 @@
             "Psychic"
         ]
     }, {
-        "id": 2,
-        "num": "002",
-        "name": "Thor",
-        "img": "https://drive.google.com/uc?export=view&id=1EVbAVmeUNtw2LMtwiXxjkpKkNKhzTZIe",
-        "height": "0.99 m",
-        "weight": "13.0 kg",
+        "id": 3,
+        "num": "003",
+        "name": "Captain America",
+        "img": "https://drive.google.com/uc?export=view&id=",
+        "height": "6 feet, 2 inches",
+        "weight": "220 pounds",
+        "strength": [
+            "mjolnir"
+        ],
+        "weaknesses": [
+            "Fire",
+            "Ice",
+            "Flying",
+            "Psychic"
+        ]
+    }, {
+        "id": 4,
+        "num": "004",
+        "name": "Hulk",
+        "img": "https://drive.google.com/uc?export=view&id=",
+        "height": "7 to 8 feet",
+        "weight": "1,400 pounds",
+        "strength": [
+            "mjolnir"
+        ],
+        "weaknesses": [
+            "Fire",
+            "Ice",
+            "Flying",
+            "Psychic"
+        ]
+    }, {
+        "id": 5,
+        "num": "005",
+        "name": "Black Widow",
+        "img": "https://drive.google.com/uc?export=view&id=",
+        "height": "5 feet, 7 inches",
+        "weight": "131 pounds",
+        "strength": [
+            "mjolnir"
+        ],
+        "weaknesses": [
+            "Fire",
+            "Ice",
+            "Flying",
+            "Psychic"
+        ]
+    }, {
+        "id": 6,
+        "num": "006",
+        "name": "Hawkeye",
+        "img": "https://drive.google.com/uc?export=view&id=",
+        "height": "6 feet, 3 inches",
+        "weight": "230 pounds",
+        "strength": [
+            "mjolnir"
+        ],
+        "weaknesses": [
+            "Fire",
+            "Ice",
+            "Flying",
+            "Psychic"
+        ]
+    }, {
+        "id": 7,
+        "num": "007",
+        "name": "Captain Marvel",
+        "img": "https://drive.google.com/uc?export=view&id=",
+        "height": "5 feet 11 inches",
+        "weight": "165 lbs",
+        "strength": [
+            "mjolnir"
+        ],
+        "weaknesses": [
+            "Fire",
+            "Ice",
+            "Flying",
+            "Psychic"
+        ]
+    }, {
+        "id": 8,
+        "num": "008",
+        "name": "Jane Foster",
+        "img": "https://drive.google.com/uc?export=view&id=",
+        "height": "5 feet 7 inches",
+        "weight": "135 lbs",
+        "strength": [
+            "mjolnir"
+        ],
+        "weaknesses": [
+            "Fire",
+            "Ice",
+            "Flying",
+            "Psychic"
+        ]
+    }, {
+        "id": 9,
+        "num": "009",
+        "name": "Black Panther",
+        "img": "https://drive.google.com/uc?export=view&id=",
+        "height": "6 feet",
+        "weight": "200 lbs",
+        "strength": [
+            "mjolnir"
+        ],
+        "weaknesses": [
+            "Fire",
+            "Ice",
+            "Flying",
+            "Psychic"
+        ]
+    }, {
+        "id": 10,
+        "num": "010",
+        "name": "Spider Man",
+        "img": "https://drive.google.com/uc?export=view&id=",
+        "height": "5 feet 10 inches",
+        "weight": "167 lbs",
+        "strength": [
+            "mjolnir"
+        ],
+        "weaknesses": [
+            "Fire",
+            "Ice",
+            "Flying",
+            "Psychic"
+        ]
+    }, {
+        "id": 11,
+        "num": "011",
+        "name": "Doctor Strange",
+        "img": "https://drive.google.com/uc?export=view&id=",
+        "height": "6 feet 2 inches",
+        "weight": "180 lbs",
+        "strength": [
+            "mjolnir"
+        ],
+        "weaknesses": [
+            "Fire",
+            "Ice",
+            "Flying",
+            "Psychic"
+        ]
+    }, {
+        "id": 12,
+        "num": "012",
+        "name": "Ant Man",
+        "img": "https://drive.google.com/uc?export=view&id=",
+        "height": "Planck length to 65 feet",
+        "weight": "86 kg",
+        "strength": [
+            "mjolnir"
+        ],
+        "weaknesses": [
+            "Fire",
+            "Ice",
+            "Flying",
+            "Psychic"
+        ]
+    }, {
+        "id": 13,
+        "num": "013",
+        "name": "War Machine",
+        "img": "https://drive.google.com/uc?export=view&id=",
+        "height": "6 feet 1 inch",
+        "weight": "240 lbs",
+        "strength": [
+            "mjolnir"
+        ],
+        "weaknesses": [
+            "Fire",
+            "Ice",
+            "Flying",
+            "Psychic"
+        ]
+    }, {
+        "id": 14,
+        "num": "014",
+        "name": "Falcon",
+        "img": "https://drive.google.com/uc?export=view&id=",
+        "height": "6 feet 2 inches",
+        "weight": "240 lbs",
+        "strength": [
+            "mjolnir"
+        ],
+        "weaknesses": [
+            "Fire",
+            "Ice",
+            "Flying",
+            "Psychic"
+        ]
+    }, {
+        "id": 15,
+        "num": "015",
+        "name": "Vision",
+        "img": "https://drive.google.com/uc?export=view&id=",
+        "height": "6 feet 3 inches",
+        "weight": "300 lbs",
+        "strength": [
+            "mjolnir"
+        ],
+        "weaknesses": [
+            "Fire",
+            "Ice",
+            "Flying",
+            "Psychic"
+        ]
+    }, {
+        "id": 16,
+        "num": "016",
+        "name": "Scarlet Witch",
+        "img": "https://drive.google.com/uc?export=view&id=",
+        "height": "5 feet 7 inches",
+        "weight": "130 lbs",
+        "strength": [
+            "mjolnir"
+        ],
+        "weaknesses": [
+            "Fire",
+            "Ice",
+            "Flying",
+            "Psychic"
+        ]
+    }, {
+        "id": 17,
+        "num": "017",
+        "name": "Thanos",
+        "img": "https://drive.google.com/uc?export=view&id=",
+        "height": "6 feet 7 inches",
+        "weight": "985 lbs",
+        "strength": [
+            "mjolnir"
+        ],
+        "weaknesses": [
+            "Fire",
+            "Ice",
+            "Flying",
+            "Psychic"
+        ]
+    }, {
+        "id": 18,
+        "num": "018",
+        "name": "Winter Soldier",
+        "img": "https://drive.google.com/uc?export=view&id=",
+        "height": "5 feet 9 inches",
+        "weight": "260 lbs",
+        "strength": [
+            "mjolnir"
+        ],
+        "weaknesses": [
+            "Fire",
+            "Ice",
+            "Flying",
+            "Psychic"
+        ]
+    }, {
+        "id": 19,
+        "num": "019",
+        "name": "Loki",
+        "img": "https://drive.google.com/uc?export=view&id=",
+        "height": "6 feet, 4 inches",
+        "weight": "525 pounds",
+        "strength": [
+            "mjolnir"
+        ],
+        "weaknesses": [
+            "Fire",
+            "Ice",
+            "Flying",
+            "Psychic"
+        ]
+    }, {
+        "id": 20,
+        "num": "020",
+        "name": "Star Lord",
+        "img": "https://drive.google.com/uc?export=view&id=",
+        "height": "6 feet 2 inches",
+        "weight": "175 lbs",
+        "strength": [
+            "mjolnir"
+        ],
+        "weaknesses": [
+            "Fire",
+            "Ice",
+            "Flying",
+            "Psychic"
+        ]
+    }, {
+        "id": 21,
+        "num": "021",
+        "name": "Gamora",
+        "img": "https://drive.google.com/uc?export=view&id=",
+        "height": "6 feet",
+        "weight": "170 lbs",
+        "strength": [
+            "mjolnir"
+        ],
+        "weaknesses": [
+            "Fire",
+            "Ice",
+            "Flying",
+            "Psychic"
+        ]
+    }, {
+        "id": 22,
+        "num": "022",
+        "name": "Drax",
+        "img": "https://drive.google.com/uc?export=view&id=",
+        "height": "8 feet",
+        "weight": "1050 lbs",
+        "strength": [
+            "mjolnir"
+        ],
+        "weaknesses": [
+            "Fire",
+            "Ice",
+            "Flying",
+            "Psychic"
+        ]
+    }, {
+        "id": 23,
+        "num": "023",
+        "name": "Rocket Raccoon",
+        "img": "https://drive.google.com/uc?export=view&id=",
+        "height": "4 feet",
+        "weight": "55 lbs",
+        "strength": [
+            "mjolnir"
+        ],
+        "weaknesses": [
+            "Fire",
+            "Ice",
+            "Flying",
+            "Psychic"
+        ]
+    }, {
+        "id": 24,
+        "num": "024",
+        "name": "Groot",
+        "img": "https://drive.google.com/uc?export=view&id=",
+        "height": "23 feet max.",
+        "weight": "8000 pounds max.",
+        "strength": [
+            "mjolnir"
+        ],
+        "weaknesses": [
+            "Fire",
+            "Ice",
+            "Flying",
+            "Psychic"
+        ]
+    }, {
+        "id": 25,
+        "num": "025",
+        "name": "Mantis",
+        "img": "https://drive.google.com/uc?export=view&id=",
+        "height": "5 feet 6 inches",
+        "weight": "115 lbs",
+        "strength": [
+            "mjolnir"
+        ],
+        "weaknesses": [
+            "Fire",
+            "Ice",
+            "Flying",
+            "Psychic"
+        ]
+    }, {
+        "id": 26,
+        "num": "026",
+        "name": "Nebula",
+        "img": "https://drive.google.com/uc?export=view&id=",
+        "height": "6 feet 1 inch",
+        "weight": "185 lbs",
+        "strength": [
+            "mjolnir"
+        ],
+        "weaknesses": [
+            "Fire",
+            "Ice",
+            "Flying",
+            "Psychic"
+        ]
+    }, {
+        "id": 27,
+        "num": "027",
+        "name": "Heimdall",
+        "img": "https://drive.google.com/uc?export=view&id=",
+        "height": "7 feet 2 inches",
+        "weight": "525 lbs",
+        "strength": [
+            "mjolnir"
+        ],
+        "weaknesses": [
+            "Fire",
+            "Ice",
+            "Flying",
+            "Psychic"
+        ]
+    }, {
+        "id": 28,
+        "num": "028",
+        "name": "Shuri",
+        "img": "https://drive.google.com/uc?export=view&id=",
+        "height": "5 feet 7 inches",
+        "weight": "127 lbs",
+        "strength": [
+            "mjolnir"
+        ],
+        "weaknesses": [
+            "Fire",
+            "Ice",
+            "Flying",
+            "Psychic"
+        ]
+    }, {
+        "id": 29,
+        "num": "029",
+        "name": "Okoye",
+        "img": "https://drive.google.com/uc?export=view&id=",
+        "height": "6 feet",
+        "weight": "128 lbs",
+        "strength": [
+            "mjolnir"
+        ],
+        "weaknesses": [
+            "Fire",
+            "Ice",
+            "Flying",
+            "Psychic"
+        ]
+    }, {
+        "id": 30,
+        "num": "030",
+        "name": "Pepper Potts",
+        "img": "https://drive.google.com/uc?export=view&id=",
+        "height": "5 feet 4 inches",
+        "weight": "110 lbs",
+        "strength": [
+            "mjolnir"
+        ],
+        "weaknesses": [
+            "Fire",
+            "Ice",
+            "Flying",
+            "Psychic"
+        ]
+    }, {
+        "id": 31,
+        "num": "031",
+        "name": "Wong",
+        "img": "https://drive.google.com/uc?export=view&id=",
+        "height": "5 feet 8 inches",
+        "weight": "140 lbs",
+        "strength": [
+            "mjolnir"
+        ],
+        "weaknesses": [
+            "Fire",
+            "Ice",
+            "Flying",
+            "Psychic"
+        ]
+    }, {
+        "id": 32,
+        "num": "032",
+        "name": "Baby Groot",
+        "img": "https://drive.google.com/uc?export=view&id=",
+        "height": "10 inches",
+        "weight": "70 grams",
+        "strength": [
+            "mjolnir"
+        ],
+        "weaknesses": [
+            "Fire",
+            "Ice",
+            "Flying",
+            "Psychic"
+        ]
+    }, {
+        "id": 33,
+        "num": "033",
+        "name": "Teenage Groot",
+        "img": "https://drive.google.com/uc?export=view&id=",
+        "height": "5 feet 4 inches",
+        "weight": "142 lbs",
+        "strength": [
+            "mjolnir"
+        ],
+        "weaknesses": [
+            "Fire",
+            "Ice",
+            "Flying",
+            "Psychic"
+        ]
+    }, {
+        "id": 34,
+        "num": "034",
+        "name": "Quicksilver",
+        "img": "https://drive.google.com/uc?export=view&id=",
+        "height": "6 feet",
+        "weight": "175 lbs",
         "strength": [
             "mjolnir"
         ],
