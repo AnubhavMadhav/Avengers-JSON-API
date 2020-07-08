@@ -3,7 +3,7 @@
         "id": 1,
         "num": "001",
         "name": "Iron Man",
-        "img": "https://drive.google.com/uc?export=view&id=1E4RIQvEeYv6j40zbAORxIySEzaCwAUPZ",
+        "img": "https://i.imgur.com/ivd2zq7.png",
         "height": "6 feet, 1 inch",
         "weight": "225 pounds",
         "strength": [
@@ -19,7 +19,7 @@
         "id": 2,
         "num": "002",
         "name": "Thor",
-        "img": "https://drive.google.com/uc?export=view&id=1EVbAVmeUNtw2LMtwiXxjkpKkNKhzTZIe",
+        "img": "https://i.imgur.com/BOQBOib.png",
         "height": "6 feet, 6 inches",
         "weight": "640 pounds",
         "strength": [
@@ -34,7 +34,7 @@
         "id": 3,
         "num": "003",
         "name": "Captain America",
-        "img": "https://drive.google.com/uc?export=view&id=1eW9izkYPJxuPcC6onKFLLXywhNEbfY1-",
+        "img": "https://i.imgur.com/0W4v05D.png",
         "height": "6 feet, 2 inches",
         "weight": "220 pounds",
         "strength": [
@@ -50,7 +50,7 @@
         "id": 4,
         "num": "004",
         "name": "Hulk",
-        "img": "https://drive.google.com/uc?export=view&id=1k8JQDQv7hw0e0IAbsWoaj1vldhIjQHOg",
+        "img": "https://i.imgur.com/vfKBjFe.png",
         "height": "7 to 8 feet",
         "weight": "1,400 pounds",
         "strength": [
@@ -67,7 +67,7 @@
         "id": 5,
         "num": "005",
         "name": "Black Widow",
-        "img": "https://drive.google.com/uc?export=view&id=1KHz2wVwbmiL75RUYjJO80cxQapmC5fZU",
+        "img": "https://i.imgur.com/YJf48gF.png",
         "height": "5 feet, 7 inches",
         "weight": "131 pounds",
         "strength": [
@@ -84,7 +84,7 @@
         "id": 6,
         "num": "006",
         "name": "Hawkeye",
-        "img": "https://drive.google.com/uc?export=view&id=1tIxfjUm0axrBrCNZ7xeIZmQak-YBFz6b",
+        "img": "https://i.imgur.com/jshFwnS.png",
         "height": "6 feet, 3 inches",
         "weight": "230 pounds",
         "strength": [
@@ -99,7 +99,7 @@
         "id": 7,
         "num": "007",
         "name": "Captain Marvel",
-        "img": "https://drive.google.com/uc?export=view&id=1SRO6otjPCe63yhG2IqPxjuXNuWj8xN-L",
+        "img": "https://i.imgur.com/QP6tNGS.png",
         "height": "5 feet 11 inches",
         "weight": "165 lbs",
         "strength": [
@@ -114,7 +114,7 @@
         "id": 8,
         "num": "008",
         "name": "Jane Foster",
-        "img": "https://drive.google.com/uc?export=view&id=1RPvRGm8XNm6NElAO_RaWm7jMGB9RygSP",
+        "img": "https://i.imgur.com/7xfCprK.png",
         "height": "5 feet 7 inches",
         "weight": "135 lbs",
         "strength": [
@@ -128,7 +128,7 @@
         "id": 9,
         "num": "009",
         "name": "Black Panther",
-        "img": "https://drive.google.com/uc?export=view&id=1w_h8E6vKlwigmkwS7P4HL8_0R9S61y46",
+        "img": "https://i.imgur.com/wOmp12i.png",
         "height": "6 feet",
         "weight": "200 lbs",
         "strength": [
@@ -145,7 +145,7 @@
         "id": 10,
         "num": "010",
         "name": "Spider Man",
-        "img": "https://drive.google.com/uc?export=view&id=1AyAmqQBb4g3nhg23xyyFHgvaz9xcDCD4",
+        "img": "https://i.imgur.com/1c6V8Lz.png",
         "height": "5 feet 10 inches",
         "weight": "167 lbs",
         "strength": [
@@ -161,7 +161,7 @@
         "id": 11,
         "num": "011",
         "name": "Doctor Strange",
-        "img": "https://drive.google.com/uc?export=view&id=1PvJUfMtB4xIXcoHjDp8qQopCN1AQ-OCC",
+        "img": "https://i.imgur.com/S99OnRD.png",
         "height": "6 feet 2 inches",
         "weight": "180 lbs",
         "strength": [
@@ -177,7 +177,7 @@
         "id": 12,
         "num": "012",
         "name": "Ant Man",
-        "img": "https://drive.google.com/uc?export=view&id=18FK2vgNVyehGwtAKqrHibP2Xvw94iGFZ",
+        "img": "https://i.imgur.com/eavbiMs.png",
         "height": "Planck length to 65 feet",
         "weight": "86 kg",
         "strength": [
@@ -191,7 +191,7 @@
         "id": 13,
         "num": "013",
         "name": "War Machine",
-        "img": "https://drive.google.com/uc?export=view&id=1bhDRmVYmu6nTfM6WBO6E3TFdjx9eLMLj",
+        "img": "https://i.imgur.com/wIvxLOg.png",
         "height": "6 feet 1 inch",
         "weight": "240 lbs",
         "strength": [
@@ -206,7 +206,7 @@
         "id": 14,
         "num": "014",
         "name": "Falcon",
-        "img": "https://drive.google.com/uc?export=view&id=1evgM8adnPI-abaQKcm_28mbnf-07tJwd",
+        "img": "https://i.imgur.com/5PrbAbI.png",
         "height": "6 feet 2 inches",
         "weight": "240 lbs",
         "strength": [
@@ -220,7 +220,7 @@
         "id": 15,
         "num": "015",
         "name": "Vision",
-        "img": "https://drive.google.com/uc?export=view&id=1vHew3T4uthINqJe7usq0BX78tzfnoQ-c",
+        "img": "https://i.imgur.com/TtF59EH.png",
         "height": "6 feet 3 inches",
         "weight": "300 lbs",
         "strength": [
@@ -235,7 +235,7 @@
         "id": 16,
         "num": "016",
         "name": "Scarlet Witch",
-        "img": "https://drive.google.com/uc?export=view&id=1spe19JcuSAW6TYwl7OFjppd07HOYMB8U",
+        "img": "https://i.imgur.com/DSrprdp.png",
         "height": "5 feet 7 inches",
         "weight": "130 lbs",
         "strength": [
@@ -249,7 +249,7 @@
         "id": 17,
         "num": "017",
         "name": "Thanos",
-        "img": "https://drive.google.com/uc?export=view&id=15dQxN_IOWOw4PG495f-C-olr7Yn_G6kR",
+        "img": "https://i.imgur.com/GwQvDwt.png",
         "height": "6 feet 7 inches",
         "weight": "985 lbs",
         "strength": [
@@ -263,7 +263,7 @@
         "id": 18,
         "num": "018",
         "name": "Winter Soldier",
-        "img": "https://drive.google.com/uc?export=view&id=1YPQQmSB4j3LH218v_t8sbSUKwRhI0A7h",
+        "img": "https://i.imgur.com/JnfobXZ.png",
         "height": "5 feet 9 inches",
         "weight": "260 lbs",
         "strength": [
@@ -279,7 +279,7 @@
         "id": 19,
         "num": "019",
         "name": "Loki",
-        "img": "https://drive.google.com/uc?export=view&id=1gmaDSODv6NdHLqp-2DDtygvUb2znjaOn",
+        "img": "https://i.imgur.com/zdzk3YT.png",
         "height": "6 feet, 4 inches",
         "weight": "525 pounds",
         "strength": [
@@ -293,7 +293,7 @@
         "id": 20,
         "num": "020",
         "name": "Star Lord",
-        "img": "https://drive.google.com/uc?export=view&id=1pF564XR80L9n5AEJqDW8EJriChYfqAI4",
+        "img": "https://i.imgur.com/eB3fkc7.png",
         "height": "6 feet 2 inches",
         "weight": "175 lbs",
         "strength": [
@@ -307,7 +307,7 @@
         "id": 21,
         "num": "021",
         "name": "Gamora",
-        "img": "https://drive.google.com/uc?export=view&id=1-qTaYU1DiBOW-9RYIOL7LLYfrED1I_S0",
+        "img": "https://i.imgur.com/CIkP2vw.png",
         "height": "6 feet",
         "weight": "170 lbs",
         "strength": [
@@ -321,7 +321,7 @@
         "id": 22,
         "num": "022",
         "name": "Drax",
-        "img": "https://drive.google.com/uc?export=view&id=11UCvASJYCe-9v8q_o5il4qEkOBZ8-YFl",
+        "img": "https://i.imgur.com/cgfCcGm.png",
         "height": "8 feet",
         "weight": "1050 lbs",
         "strength": [
@@ -334,7 +334,7 @@
         "id": 23,
         "num": "023",
         "name": "Rocket Raccoon",
-        "img": "https://drive.google.com/uc?export=view&id=1L6wQ2zcLO4BIMIbCMJzvPaU-FKhQZGBu",
+        "img": "https://i.imgur.com/vjsw3od.png",
         "height": "4 feet",
         "weight": "55 lbs",
         "strength": [
@@ -348,7 +348,7 @@
         "id": 24,
         "num": "024",
         "name": "Groot",
-        "img": "https://drive.google.com/uc?export=view&id=1cRgGDD_czafCXBdhBNhiWG2_LUrdOTWF",
+        "img": "https://i.imgur.com/jA6THq3.png",
         "height": "23 feet max.",
         "weight": "8000 pounds max.",
         "strength": [
@@ -362,7 +362,7 @@
         "id": 25,
         "num": "025",
         "name": "Mantis",
-        "img": "https://drive.google.com/uc?export=view&id=1Srs5EHXvgfF8XzQhCoULG2o1-X5DB9Xp",
+        "img": "https://i.imgur.com/HXSfDDT.png",
         "height": "5 feet 6 inches",
         "weight": "115 lbs",
         "strength": [
@@ -376,7 +376,7 @@
         "id": 26,
         "num": "026",
         "name": "Nebula",
-        "img": "https://drive.google.com/uc?export=view&id=1rOitCsNX_70vXiNnJ936ZFBQygGmOkWp",
+        "img": "https://i.imgur.com/4BJHOFp.png",
         "height": "6 feet 1 inch",
         "weight": "185 lbs",
         "strength": [
@@ -390,7 +390,7 @@
         "id": 27,
         "num": "027",
         "name": "Heimdall",
-        "img": "https://drive.google.com/uc?export=view&id=1ZC9M7hcsobA2DQoCKrlTQ9DK00honT_i",
+        "img": "https://i.imgur.com/ifNA3iG.png",
         "height": "7 feet 2 inches",
         "weight": "525 lbs",
         "strength": [
@@ -404,7 +404,7 @@
         "id": 28,
         "num": "028",
         "name": "Shuri",
-        "img": "https://drive.google.com/uc?export=view&id=1ATZJBHss2zAItTHiSX9PoKt6tNygyZWd",
+        "img": "https://i.imgur.com/JNDJYj8.png",
         "height": "5 feet 7 inches",
         "weight": "127 lbs",
         "strength": [
@@ -418,7 +418,7 @@
         "id": 29,
         "num": "029",
         "name": "Okoye",
-        "img": "https://drive.google.com/uc?export=view&id=1c3pQUeNVB3JA0qyT5OB49FWuMe_VUEEJ",
+        "img": "https://i.imgur.com/CFNPgZs.png",
         "height": "6 feet",
         "weight": "128 lbs",
         "strength": [
@@ -432,7 +432,7 @@
         "id": 30,
         "num": "030",
         "name": "Pepper Potts",
-        "img": "https://drive.google.com/uc?export=view&id=1Xx4_kSHGuPM5dXgOQkD5Yr-sQbLekCjc",
+        "img": "https://i.imgur.com/r3Hu5HF.png",
         "height": "5 feet 4 inches",
         "weight": "110 lbs",
         "strength": [
@@ -445,7 +445,7 @@
         "id": 31,
         "num": "031",
         "name": "Wong",
-        "img": "https://drive.google.com/uc?export=view&id=14fePgxvXJO7mg1iDkyVF8C-lyPUWZ0Nj",
+        "img": "https://i.imgur.com/9LYN7Z2.png",
         "height": "5 feet 8 inches",
         "weight": "140 lbs",
         "strength": [
@@ -459,7 +459,7 @@
         "id": 32,
         "num": "032",
         "name": "Baby Groot",
-        "img": "https://drive.google.com/uc?export=view&id=1LdOAqgiWEtgDwEVtFaC1nvR5RGxRok1E",
+        "img": "https://i.imgur.com/RZchbpW.png",
         "height": "10 inches",
         "weight": "70 grams",
         "strength": [
@@ -473,7 +473,7 @@
         "id": 33,
         "num": "033",
         "name": "Teenage Groot",
-        "img": "https://drive.google.com/uc?export=view&id=14WLwU2GTOqqFJNzCfpPRUeMa5VosiCZE",
+        "img": "https://i.imgur.com/cj8GfSW.png",
         "height": "5 feet 4 inches",
         "weight": "142 lbs",
         "strength": [
@@ -487,7 +487,7 @@
         "id": 34,
         "num": "034",
         "name": "Quicksilver",
-        "img": "https://drive.google.com/uc?export=view&id=12IFAd4iACmnB5SR1iRqQfr_WEMKTobC8",
+        "img": "https://i.imgur.com/g96QhSV.png",
         "height": "6 feet",
         "weight": "175 lbs",
         "strength": [
