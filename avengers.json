@@ -23,13 +23,13 @@
         "height": "6 feet, 6 inches",
         "weight": "640 pounds",
         "strength": [
-            ""
+            "God of Thunder",
+            "Superhuman Strength",
+            "Invulnerability"
         ],
         "weaknesses": [
-            "Fire",
-            "Ice",
-            "Flying",
-            "Psychic"
+            "Short Tempered",
+            "Emotional"
         ]
     }, {
         "id": 3,
@@ -39,13 +39,13 @@
         "height": "6 feet, 2 inches",
         "weight": "220 pounds",
         "strength": [
-            "mjolnir"
+            "Reflexes",
+            "Slowed Ageing",
+            "Super Healimg"
         ],
         "weaknesses": [
-            "Fire",
-            "Ice",
-            "Flying",
-            "Psychic"
+            "His Past",
+            "Emotions"
         ]
     }, {
         "id": 4,
@@ -55,13 +55,14 @@
         "height": "7 to 8 feet",
         "weight": "1,400 pounds",
         "strength": [
-            "mjolnir"
+            "Incredible superhuman strength",
+            "Fire Resistance"
         ],
         "weaknesses": [
-            "Fire",
-            "Ice",
-            "Flying",
-            "Psychic"
+            "Magic",
+            "Vibranium",
+            "Gas",
+            "Battling Banner"
         ]
     }, {
         "id": 5,
@@ -71,13 +72,14 @@
         "height": "5 feet, 7 inches",
         "weight": "131 pounds",
         "strength": [
-            "mjolnir"
+            "Durability",
+            "Super Reflexes"
         ],
         "weaknesses": [
-            "Fire",
-            "Ice",
-            "Flying",
-            "Psychic"
+            "Guilt",
+            "Ego",
+            "Infertility",
+            "Cats"
         ]
     }, {
         "id": 6,
@@ -87,13 +89,12 @@
         "height": "6 feet, 3 inches",
         "weight": "230 pounds",
         "strength": [
-            "mjolnir"
+            "Master Archer",
+            "Peak Human Sight",
+            "Expert Acrobat"
         ],
         "weaknesses": [
-            "Fire",
-            "Ice",
-            "Flying",
-            "Psychic"
+            "Relations"
         ]
     }, {
         "id": 7,
@@ -103,13 +104,12 @@
         "height": "5 feet 11 inches",
         "weight": "165 lbs",
         "strength": [
-            "mjolnir"
+            "Superhuman strength",
+            " Energy Absorption And Manipulation"
         ],
         "weaknesses": [
-            "Fire",
-            "Ice",
-            "Flying",
-            "Psychic"
+            "Split Personality",
+            "Brainwashing"
         ]
     }, {
         "id": 8,
@@ -119,13 +119,11 @@
         "height": "5 feet 7 inches",
         "weight": "135 lbs",
         "strength": [
-            "mjolnir"
+            "Mighty Thor",
+            "Super Human Strength"
         ],
         "weaknesses": [
-            "Fire",
-            "Ice",
-            "Flying",
-            "Psychic"
+            "Cancer"
         ]
     }, {
         "id": 9,
@@ -135,13 +133,14 @@
         "height": "6 feet",
         "weight": "200 lbs",
         "strength": [
-            "mjolnir"
+            "Knowledge",
+            "Endurance",
+            "Electrocution"
         ],
         "weaknesses": [
-            "Fire",
-            "Ice",
-            "Flying",
-            "Psychic"
+            "Arrogance",
+            "Magic",
+            "Daddy Issues"
         ]
     }, {
         "id": 10,
@@ -151,13 +150,14 @@
         "height": "5 feet 10 inches",
         "weight": "167 lbs",
         "strength": [
-            "mjolnir"
+            "Super Strength",
+            "Night Vision",
+            "Spidey Sense"
         ],
         "weaknesses": [
-            "Fire",
-            "Ice",
-            "Flying",
-            "Psychic"
+            "Ethyl Chloride pesticide",
+            "Common Cold",
+            "Gas Attacks"
         ]
     }, {
         "id": 11,
@@ -167,13 +167,14 @@
         "height": "6 feet 2 inches",
         "weight": "180 lbs",
         "strength": [
-            "mjolnir"
+            "Summoning Objects",
+            "Teleportation",
+            "Access To Dimensions",
+            "Divine Conduit"
         ],
         "weaknesses": [
-            "Fire",
-            "Ice",
-            "Flying",
-            "Psychic"
+            "Ego",
+            "Arrogance"
         ]
     }, {
         "id": 12,
@@ -183,13 +184,12 @@
         "height": "Planck length to 65 feet",
         "weight": "86 kg",
         "strength": [
-            "mjolnir"
+            "Amplified Voice",
+            "Change Size At Will",
+            "Bio-Energy Projection"
         ],
         "weaknesses": [
-            "Fire",
-            "Ice",
-            "Flying",
-            "Psychic"
+            "Different size can cause stress to his body and mind"
         ]
     }, {
         "id": 13,
@@ -199,13 +199,12 @@
         "height": "6 feet 1 inch",
         "weight": "240 lbs",
         "strength": [
-            "mjolnir"
+            "Superhuman Strength",
+            "Project Energy Blasts"
         ],
         "weaknesses": [
-            "Fire",
-            "Ice",
-            "Flying",
-            "Psychic"
+            "Slow Speed",
+            "Relations"
         ]
     }, {
         "id": 14,
@@ -215,13 +214,11 @@
         "height": "6 feet 2 inches",
         "weight": "240 lbs",
         "strength": [
-            "mjolnir"
+            "Flight",
+            "Telepathy with birds"
         ],
         "weaknesses": [
-            "Fire",
-            "Ice",
-            "Flying",
-            "Psychic"
+            "His Past"
         ]
     }, {
         "id": 15,
@@ -231,13 +228,12 @@
         "height": "6 feet 3 inches",
         "weight": "300 lbs",
         "strength": [
-            "mjolnir"
+            "Superhuman Analytical Capabilities",
+            "Flight"
         ],
         "weaknesses": [
-            "Fire",
-            "Ice",
-            "Flying",
-            "Psychic"
+            "Emotions",
+            "Telepathy"
         ]
     }, {
         "id": 16,
@@ -247,13 +243,11 @@
         "height": "5 feet 7 inches",
         "weight": "130 lbs",
         "strength": [
-            "mjolnir"
+            "Born With Cosmic Powers",
+            "Skilled Tactician"
         ],
         "weaknesses": [
-            "Fire",
-            "Ice",
-            "Flying",
-            "Psychic"
+            "Lack of Confidence"
         ]
     }, {
         "id": 17,
@@ -263,13 +257,12 @@
         "height": "6 feet 7 inches",
         "weight": "985 lbs",
         "strength": [
-            "mjolnir"
+            "Superhuman Strength",
+            "Telekinesis",
+            "Can manipulate matter"
         ],
         "weaknesses": [
-            "Fire",
-            "Ice",
-            "Flying",
-            "Psychic"
+            "Not an Avenger"
         ]
     }, {
         "id": 18,
@@ -279,13 +272,13 @@
         "height": "5 feet 9 inches",
         "weight": "260 lbs",
         "strength": [
-            "mjolnir"
+            "Superhuman Strength",
+            "Agility",
+            "Arm Disguise"
         ],
         "weaknesses": [
-            "Fire",
-            "Ice",
-            "Flying",
-            "Psychic"
+            "Limited By Technology",
+            "Can be Controlled"
         ]
     }, {
         "id": 19,
@@ -295,13 +288,11 @@
         "height": "6 feet, 4 inches",
         "weight": "525 pounds",
         "strength": [
-            "mjolnir"
+            "God of Mischief",
+            "Master of Manipulation and Deceit"
         ],
         "weaknesses": [
-            "Fire",
-            "Ice",
-            "Flying",
-            "Psychic"
+            "Propensity to Overthink and Doubt"
         ]
     }, {
         "id": 20,
@@ -311,13 +302,11 @@
         "height": "6 feet 2 inches",
         "weight": "175 lbs",
         "strength": [
-            "mjolnir"
+            "Strength Augmentation",
+            "Skilled Marksman"
         ],
         "weaknesses": [
-            "Fire",
-            "Ice",
-            "Flying",
-            "Psychic"
+            "Never grew up"
         ]
     }, {
         "id": 21,
@@ -327,13 +316,11 @@
         "height": "6 feet",
         "weight": "170 lbs",
         "strength": [
-            "mjolnir"
+            "Elite Combatant",
+            "Accelerated Healing Factor"
         ],
         "weaknesses": [
-            "Fire",
-            "Ice",
-            "Flying",
-            "Psychic"
+            "Emotions"
         ]
     }, {
         "id": 22,
@@ -343,13 +330,10 @@
         "height": "8 feet",
         "weight": "1050 lbs",
         "strength": [
-            "mjolnir"
+            "Projects Concussive Blasts of Cosmic Energy from his hands"
         ],
         "weaknesses": [
-            "Fire",
-            "Ice",
-            "Flying",
-            "Psychic"
+            "Hate"
         ]
     }, {
         "id": 23,
@@ -359,13 +343,11 @@
         "height": "4 feet",
         "weight": "55 lbs",
         "strength": [
-            "mjolnir"
+            "Brilliant Engineer and Technician",
+            "Starship Pilot"
         ],
         "weaknesses": [
-            "Fire",
-            "Ice",
-            "Flying",
-            "Psychic"
+            "Stealing Stuff"
         ]
     }, {
         "id": 24,
@@ -375,13 +357,11 @@
         "height": "23 feet max.",
         "weight": "8000 pounds max.",
         "strength": [
-            "mjolnir"
+            "Ability to Regenerate",
+            "Resistant to Fire"
         ],
         "weaknesses": [
-            "Fire",
-            "Ice",
-            "Flying",
-            "Psychic"
+            "Termites"
         ]
     }, {
         "id": 25,
@@ -391,13 +371,11 @@
         "height": "5 feet 6 inches",
         "weight": "115 lbs",
         "strength": [
-            "mjolnir"
+            "Controls mind",
+            "Read and Alter Emotions"
         ],
         "weaknesses": [
-            "Fire",
-            "Ice",
-            "Flying",
-            "Psychic"
+            "Physically Diminutive"
         ]
     }, {
         "id": 26,
@@ -407,13 +385,11 @@
         "height": "6 feet 1 inch",
         "weight": "185 lbs",
         "strength": [
-            "mjolnir"
+            "Athletic",
+            "Excellent Combatant"
         ],
         "weaknesses": [
-            "Fire",
-            "Ice",
-            "Flying",
-            "Psychic"
+            "Ego"
         ]
     }, {
         "id": 27,
@@ -423,13 +399,11 @@
         "height": "7 feet 2 inches",
         "weight": "525 lbs",
         "strength": [
-            "mjolnir"
+            "Superhuman Strength",
+            "Agility"
         ],
         "weaknesses": [
-            "Fire",
-            "Ice",
-            "Flying",
-            "Psychic"
+            "Magic"
         ]
     }, {
         "id": 28,
@@ -439,13 +413,11 @@
         "height": "5 feet 7 inches",
         "weight": "127 lbs",
         "strength": [
-            "mjolnir"
+            "Genius Technician",
+            "Agility"
         ],
         "weaknesses": [
-            "Fire",
-            "Ice",
-            "Flying",
-            "Psychic"
+            "Ego"
         ]
     }, {
         "id": 29,
@@ -455,13 +427,11 @@
         "height": "6 feet",
         "weight": "128 lbs",
         "strength": [
-            "mjolnir"
+            "Master Martial Artist",
+            "Combatant"
         ],
         "weaknesses": [
-            "Fire",
-            "Ice",
-            "Flying",
-            "Psychic"
+            "Love"
         ]
     }, {
         "id": 30,
@@ -471,13 +441,11 @@
         "height": "5 feet 4 inches",
         "weight": "110 lbs",
         "strength": [
-            "mjolnir"
+            "Energy Projection Flight",
+            "Electromagnetic Field Sensing"
         ],
         "weaknesses": [
-            "Fire",
-            "Ice",
-            "Flying",
-            "Psychic"
+            "None"
         ]
     }, {
         "id": 31,
@@ -487,13 +455,11 @@
         "height": "5 feet 8 inches",
         "weight": "140 lbs",
         "strength": [
-            "mjolnir"
+            "Mastery of Magic",
+            "Genius level Intellect"
         ],
         "weaknesses": [
-            "Fire",
-            "Ice",
-            "Flying",
-            "Psychic"
+            "None"
         ]
     }, {
         "id": 32,
@@ -503,13 +469,11 @@
         "height": "10 inches",
         "weight": "70 grams",
         "strength": [
-            "mjolnir"
+            "Ability to Regenerate",
+            "Resistant to Fire"
         ],
         "weaknesses": [
-            "Fire",
-            "Ice",
-            "Flying",
-            "Psychic"
+            "Termites"
         ]
     }, {
         "id": 33,
@@ -519,13 +483,11 @@
         "height": "5 feet 4 inches",
         "weight": "142 lbs",
         "strength": [
-            "mjolnir"
+            "Ability to Regenerate",
+            "Resistant to Fire"
         ],
         "weaknesses": [
-            "Fire",
-            "Ice",
-            "Flying",
-            "Psychic"
+            "Termites"
         ]
     }, {
         "id": 34,
@@ -535,13 +497,11 @@
         "height": "6 feet",
         "weight": "175 lbs",
         "strength": [
-            "mjolnir"
+            "Superhuman Speed",
+            "Agility"
         ],
         "weaknesses": [
-            "Fire",
-            "Ice",
-            "Flying",
-            "Psychic"
+            "His Past"
         ]
     }]
 }
