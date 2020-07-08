@@ -24,7 +24,6 @@
         "weight": "640 pounds",
         "strength": [
             "God of Thunder",
-            "Superhuman Strength",
             "Invulnerability"
         ],
         "weaknesses": [
@@ -105,7 +104,7 @@
         "weight": "165 lbs",
         "strength": [
             "Superhuman strength",
-            " Energy Absorption And Manipulation"
+            "Energy Absorption & Manipulation"
         ],
         "weaknesses": [
             "Split Personality",
@@ -156,8 +155,7 @@
         ],
         "weaknesses": [
             "Ethyl Chloride pesticide",
-            "Common Cold",
-            "Gas Attacks"
+            "Common Cold"
         ]
     }, {
         "id": 11,
@@ -169,8 +167,7 @@
         "strength": [
             "Summoning Objects",
             "Teleportation",
-            "Access To Dimensions",
-            "Divine Conduit"
+            "Access To Dimensions"
         ],
         "weaknesses": [
             "Ego",
@@ -184,7 +181,6 @@
         "height": "Planck length to 65 feet",
         "weight": "86 kg",
         "strength": [
-            "Amplified Voice",
             "Change Size At Will",
             "Bio-Energy Projection"
         ],
@@ -257,7 +253,6 @@
         "height": "6 feet 7 inches",
         "weight": "985 lbs",
         "strength": [
-            "Superhuman Strength",
             "Telekinesis",
             "Can manipulate matter"
         ],
@@ -330,7 +325,7 @@
         "height": "8 feet",
         "weight": "1050 lbs",
         "strength": [
-            "Projects Concussive Blasts of Cosmic Energy from his hands"
+            "Projects Concussive Blasts of Cosmic Energy"
         ],
         "weaknesses": [
             "Hate"
@@ -441,8 +436,7 @@
         "height": "5 feet 4 inches",
         "weight": "110 lbs",
         "strength": [
-            "Energy Projection Flight",
-            "Electromagnetic Field Sensing"
+            "Energy Projection Flight"
         ],
         "weaknesses": [
             "None"
